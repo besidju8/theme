@@ -12,7 +12,7 @@
 :root {
     --avatar-size: 32px;
     --background-image: url('https://images5.alphacoders.com/116/1162087.jpg');
-    --home-image: url('https://static.zerochan.net/Vanitas.%28Vanitas.no.Shuki%29.full.3274768.png');
+    --home-image: url('https://img1.picmix.com/output/stamp/normal/3/6/8/7/1117863_43f3f.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
     --background-solid-darker: #0c0e12;
